@@ -4,6 +4,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "sourceMap": true,
+    "types": ["node", "jest"],
 
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
